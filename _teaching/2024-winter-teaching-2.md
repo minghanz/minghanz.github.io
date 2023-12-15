@@ -1,7 +1,7 @@
 ---
-title: "UMich NA/EECS 568, ROB 530: Mobile Robotics: Methods and Algorithms"
+title: "UMich NA/EECS 568, ROB 530: Mobile Robotics: Methods and Algorithms (Prospective)"
 collection: teaching
-type: "Graduate course"
+type: "Joint Instructor, Graduate Course"
 # permalink: /teaching/2024-winter-teaching-2
 venue: "University of Michigan"
 date: 2024-01-01

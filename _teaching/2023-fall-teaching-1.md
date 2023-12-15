@@ -1,7 +1,7 @@
 ---
 title: "UMich NA 565, ROB 535, ME 599: Self-Driving Cars: Perception and Control"
 collection: teaching
-type: "Graduate course"
+type: "Joint Instructor, Graduate Course"
 # permalink: /teaching/2023-fall-teaching-1
 venue: "University of Michigan"
 date: 2023-09-01
