@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-fall-teaching-1
 venue: "University of Michigan"
-date: Fall 2023
+date: 2023-09-01
 location: "Ann Arbor, United States"
 ---
 
