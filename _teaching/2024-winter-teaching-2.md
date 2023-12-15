@@ -2,7 +2,7 @@
 title: "UMich NA/EECS 568, ROB 530: Mobile Robotics: Methods and Algorithms"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2024-winter-teaching-2
+# permalink: /teaching/2024-winter-teaching-2
 venue: "University of Michigan"
 date: 2024-01-01
 location: "Ann Arbor, United States"

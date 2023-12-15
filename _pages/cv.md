@@ -38,9 +38,6 @@ Work experience
 
 Publications
 ======
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   See my [Google Scholar](https://scholar.google.com/citations?user=70CbUXwAAAAJ&hl=en) page. 
 
 Talks
