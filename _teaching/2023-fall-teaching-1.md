@@ -4,7 +4,7 @@ collection: teaching
 type: "Joint Instructor, Graduate Course"
 # permalink: /teaching/2023-fall-teaching-1
 venue: "University of Michigan"
-# date: 2023-09-01
+date: 2024-09-01
 terms:
   - "Fall 2023"
   - "Fall 2024"

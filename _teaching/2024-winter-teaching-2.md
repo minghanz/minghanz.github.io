@@ -4,7 +4,7 @@ collection: teaching
 type: "Joint Instructor, Graduate Course"
 # permalink: /teaching/2024-winter-teaching-2
 venue: "University of Michigan"
-# date: 2024-01-01
+date: 2024-01-01
 terms:
   - "Winter 2024"
 location: "Ann Arbor, United States"
