@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in Automotive Engineering, Tsinghua University, 2016
-* M.S. in Mechanical Engineering, University of Michigan, 2018
 * Ph.D in Mechanical Engineering, University of Michigan, 2023
+* M.S. in Mechanical Engineering, University of Michigan, 2018
+* B.S. in Automotive Engineering, Tsinghua University, 2016
 
 Work experience
 ======
-* Summer 2021: Research Engineer Intern
-  * TuSimple
-  * Topic: Monocular 3D object detection
-  <!-- * Supervisor: Professor Git -->
-
+* Oct. 2024 - Now: Assistant Research Scientist
+  * University of Michigan
+* Oct. 2023 - Now: Postdoctoral Researcher
+  * University of Pennsylvania
+* Sept. 2023 - Sept. 2024: Researcher Fellow
+  * University of Michigan
 * Summer 2022: Research Engineer Intern
   * Qualcomm AI Research
-  * Topic: Equivariant 4D Lidar panoptic segmentation
   <!-- * Supervisor: Professor Hub -->
+* Summer 2021: Research Engineer Intern
+  * TuSimple
+  <!-- * Supervisor: Professor Git -->
+
   
 <!-- Skills
 ======
