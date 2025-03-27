@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a researcher in robotic 3D perception. My goal is to create algorithms that build scene representations in new environments with brief observations and interactions in a short period of time, so as to enable fast and scalable autonomy deployment. 
-<!-- It implies generalizability and data-efficient test-time adaptation.  -->
-The tools I leverage to work towards this goal mainly include symmetry-aware geometric deep learning, physics-informed multimodal perception, and data-based prior from foundation models. 
+Hello! I am a researcher specializing in robotic 3D perception. My research focuses on developing generalizable 3D scene representations across diverse environments to enable adaptive and scalable autonomous systems. My work centers on three main areas: 
+- Symmetry-aware equivariant representation learning
+- Embodied multi-modal perception with physics-informed model learning
+- Data-driven 3D prior learning
 
 I am currently an Assistant Research Scientist at the University of Michigan [CURLY lab](https://curly.engin.umich.edu/), advised by [Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/), and a Postdoctoral Researcher at the University of Pennsylvania [DAIR lab](https://dair.seas.upenn.edu/), advised by [Michael Posa](https://www.grasp.upenn.edu/people/michael-posa/). I obtained my Ph. D. in Mechanical Engineering from the University of Michigan, under the supervision of [Huei Peng](https://huei.engin.umich.edu/) and Maani Ghaffari. 
 
@@ -18,6 +19,44 @@ Please check out my [Google Scholar](https://scholar.google.com/citations?user=7
 
 Selected Publications
 ======
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 0 0 150px;">
+        <img src="..\images\thumbnails\lidaredit_square_title.png" alt="SE3ET Thumbnail" style="width: 150px; height: auto;">
+    </div>
+    <div style="flex: 1; padding-left: 20px;">
+        <h3>LiDAR-EDIT: LiDAR Data Generation by Editing the Object Layouts in Real-World Scenes</h3>
+        <p>
+            Shing-Hei Ho, 
+            Bao Thach,
+            <strong>Minghan Zhu</strong> <br>
+            <em>IEEE International Conference on Robotics & Automation (ICRA), 2025</em>
+        </p>
+        <p>
+            <a href="https://arxiv.org/abs/2410.11783">Paper</a>  
+            <!-- | <a href="https://github.com/UMich-CURLY/LatentBKI">Code</a>   -->
+            <!-- | <a href="link-to-bibtex">BibTeX</a> -->
+        </p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 0 0 150px;">
+        <img src="..\images\thumbnails\latentbki.png" alt="SE3ET Thumbnail" style="width: 150px; height: auto;">
+    </div>
+    <div style="flex: 1; padding-left: 20px;">
+        <h3>LatentBKI: Open-Dictionary Continuous Mapping in Visual-Language Latent Spaces With quantifiable uncertainty</h3>
+        <p>
+            Joey Wilson, Ruihan Xu, Yile Sun, Parker Ewen, <strong>Minghan Zhu</strong>, Kira Barton, Maani Ghaffari <br>
+            <em>IEEE Robotics and Automation Letters, 2025</em>
+        </p>
+        <p>
+            <a href="https://arxiv.org/abs/2412.00592">Paper</a>  
+            | <a href="https://github.com/UMich-CURLY/LatentBKI">Code</a>  
+            <!-- | <a href="link-to-bibtex">BibTeX</a> -->
+        </p>
+    </div>
+</div>
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 150px;">
         <img src="..\images\thumbnails\se3et.png" alt="SE3ET Thumbnail" style="width: 150px; height: auto;">
