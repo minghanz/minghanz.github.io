@@ -21,6 +21,28 @@ Selected Publications
 ======
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 150px;">
+        <img src="..\images\thumbnails\vysics.png" alt="Vysics Thumbnail" style="width: 150px; height: auto;">
+    </div>
+    <div style="flex: 1; padding-left: 20px;">
+        <h3>Vysics: Object Reconstruction Under Occlusion by Fusing Vision and Contact-Rich Physics</h3>
+        <p>
+            Bibit Bianchini*, 
+            <strong>Minghan Zhu*</strong>,
+            Mengti Sun, 
+            Bowen Jiang,
+            Camillo J. Taylor, 
+            Michael Posa <br>
+            <em>Robotics: Science and Systems (RSS), 2025</em>
+        </p>
+        <p>
+            <a href="https://arxiv.org/abs/2504.18719">Paper</a>  
+            | <a href="https://vysics-vision-and-physics.github.io/">Project</a>
+        </p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 0 0 150px;">
         <img src="..\images\thumbnails\lidaredit_square_title.png" alt="SE3ET Thumbnail" style="width: 150px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
@@ -33,7 +55,7 @@ Selected Publications
         </p>
         <p>
             <a href="https://arxiv.org/abs/2410.11783">Paper</a>  
-            <!-- | <a href="https://github.com/UMich-CURLY/LatentBKI">Code</a>   -->
+            | <a href="https://github.com/UMich-CURLY/LatentBKI">Code</a>  
             <!-- | <a href="link-to-bibtex">BibTeX</a> -->
         </p>
     </div>
