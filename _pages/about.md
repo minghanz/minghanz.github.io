@@ -43,7 +43,7 @@ Selected Publications
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 150px;">
-        <img src="..\images\thumbnails\lidaredit_square_title.png" alt="SE3ET Thumbnail" style="width: 150px; height: auto;">
+        <img src="..\images\thumbnails\lidarar_thumbnail.png" alt="SE3ET Thumbnail" style="width: 150px; height: auto;">
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <h3>LiDAR-EDIT: LiDAR Data Generation by Editing the Object Layouts in Real-World Scenes</h3>
@@ -55,7 +55,9 @@ Selected Publications
         </p>
         <p>
             <a href="https://arxiv.org/abs/2410.11783">Paper</a>  
-            | <a href="https://github.com/UMich-CURLY/LatentBKI">Code</a>  
+            | <a href="https://sites.google.com/view/lidar-edit">Project</a>  
+            | <a href="https://huggingface.co/spaces/Shing-Hei/LiDAR-EDIT_DEMO_ICRA2025">Demo</a>  
+            | <a href="https://github.com/HoAdrian/ICRA2025_lidar_edit">Code</a>  
             <!-- | <a href="link-to-bibtex">BibTeX</a> -->
         </p>
     </div>
