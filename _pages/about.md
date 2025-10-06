@@ -31,7 +31,7 @@ Selected Work
         <h3>Object Reconstruction under Occlusion with Generative Priors and
  Contact-induced Constraints</h3>
         <p>
-            <strong>Minghan Zhu</strong>, Zhiyi Wang, Qihang Sun, Maani Ghaffari, and Michael Posa<br>
+            <strong>Minghan Zhu</strong>, Zhiyi Wang, Qihang Sun, Maani Ghaffari, Michael Posa<br>
             <!-- <em>Robotics: Science and Systems (RSS), 2025</em> -->
         </p>
         <p>
