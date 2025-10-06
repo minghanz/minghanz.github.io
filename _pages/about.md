@@ -8,17 +8,54 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a researcher specializing in robotic 3D perception. My research focuses on developing generalizable 3D scene representations across diverse environments to enable adaptive and scalable autonomous systems. My work centers on three main areas: 
-- Symmetry-aware equivariant representation learning
-- Embodied multi-modal perception with physics-informed model learning
-- Data-driven 3D prior learning
+Hello! 
+
+I am a researcher working on 3D vision for robotics. My work focuses on developing robust spatial understanding, such as geometry, pose, and physical property estimation, by incorporating data-driven methods and real-world structures. The goal is to enable robots to operate effectively in challenging environments.
+
+My research explores two main directions:
+
+- Leveraging spatial symmetry as a strong inductive bias for 3D learning.
+- Updating and improving environmental models through embodied physical interactions at test time.
 
 I am currently an Assistant Research Scientist at the University of Michigan [CURLY lab](https://curly.engin.umich.edu/), advised by [Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/), and a Postdoctoral Researcher at the University of Pennsylvania [DAIR lab](https://dair.seas.upenn.edu/), advised by [Michael Posa](https://www.grasp.upenn.edu/people/michael-posa/). I obtained my Ph. D. in Mechanical Engineering from the University of Michigan, under the supervision of [Huei Peng](https://huei.engin.umich.edu/) and Maani Ghaffari. 
 
 Please check out my [Google Scholar](https://scholar.google.com/citations?user=70CbUXwAAAAJ&hl=en) page for the full list of my publications. 
 
-Selected Publications
+Selected Work
 ======
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 0 0 150px;">
+        <img src="..\images\thumbnails\obj_3dgen.png" alt="Vysics Thumbnail" style="width: 150px; height: auto;">
+    </div>
+    <div style="flex: 1; padding-left: 20px;">
+        <h3>Object Reconstruction under Occlusion with Generative Priors and
+ Contact-induced Constraints</h3>
+        <p>
+            <strong>Minghan Zhu</strong>, Zhiyi Wang, Qihang Sun, Maani Ghaffari, and Michael Posa<br>
+            <!-- <em>Robotics: Science and Systems (RSS), 2025</em> -->
+        </p>
+        <p>
+            (Under review)
+        </p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 0 0 150px;">
+        <img src="..\images\thumbnails\reln.png" alt="Vysics Thumbnail" style="width: 150px; height: auto;">
+    </div>
+    <div style="flex: 1; padding-left: 20px;">
+        <h3>Equivariant Neural Networks for General Linear Symmetries on Lie Algebras</h3>
+        <p>
+            Chankyo Kim, Sicheng Zhao, <strong>Minghan Zhu</strong>, Tzu-Yuan Lin, Maani Ghaffari<br>
+            <!-- <em>Robotics: Science and Systems (RSS), 2025</em> -->
+        </p>
+        <p>
+            (Under review)
+        </p>
+    </div>
+</div>
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 0 0 150px;">
         <img src="..\images\thumbnails\vysics.png" alt="Vysics Thumbnail" style="width: 150px; height: auto;">
