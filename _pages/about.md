@@ -10,14 +10,13 @@ redirect_from:
 
 Hello! 
 
-I am a researcher working on 3D vision for robotics. My work focuses on developing robust spatial understanding, such as geometry, pose, and physical property estimation, by incorporating data-driven methods and real-world structures. The goal is to enable robots to operate effectively in challenging environments.
+I am a robot vision researcher interested in building object-centric 3D representations as the foundation for robot perception, reasoning, and action. My work focuses on developing robust spatial understanding, such as geometry, pose, and physical properties, in visually challenging environments by incorporating data-driven 3D priors and physics-based reasoning. My goal is to enable efficient and generalizable robot manipulation in cluttered environments.
 
 My research explores two main directions:
+- Leveraging symmetry as a strong prior for efficient object-centric 3D scene understanding. 
+- Test-time update of scene understanding through embodied interactions and physics-based reasoning. 
 
-- Leveraging spatial symmetry as a strong inductive bias for 3D learning.
-- Updating and improving environmental models through embodied physical interactions at test time.
-
-I am currently an Assistant Research Scientist at the University of Michigan [CURLY lab](https://curly.engin.umich.edu/), advised by [Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/), and a Postdoctoral Researcher at the University of Pennsylvania [DAIR lab](https://dair.seas.upenn.edu/), advised by [Michael Posa](https://www.grasp.upenn.edu/people/michael-posa/). I obtained my Ph. D. in Mechanical Engineering from the University of Michigan, under the supervision of [Huei Peng](https://huei.engin.umich.edu/) and Maani Ghaffari. 
+I am currently a Postdoctoral Researcher at the GRASP Lab, University of Pennsylvania, advised by [Michael Posa](https://www.grasp.upenn.edu/people/michael-posa/), and an Assistant Research Scientist at the University of Michigan, advised by [Maani Ghaffari](https://name.engin.umich.edu/people/ghaffari-maani/). I received my Ph.D. in Mechanical Engineering from the University of Michigan, advised by [Huei Peng](https://huei.engin.umich.edu/) and Maani Ghaffari. 
 
 Please check out my [Google Scholar](https://scholar.google.com/citations?user=70CbUXwAAAAJ&hl=en) page for the full list of my publications. 
 
