@@ -7,6 +7,7 @@ venue: "University of Michigan"
 date: 2024-01-01
 terms:
   - "Winter 2024"
+  - "Winter 2025"
 location: "Ann Arbor, United States"
 ---
 
