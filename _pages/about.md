@@ -12,7 +12,7 @@ Hello!
 
 I am a robot vision researcher interested in building object-centric 3D representations as the foundation for robot perception, reasoning, and action. My work focuses on developing robust spatial understanding, such as geometry, pose, physical properties, and dynamics models, in visually challenging environments by incorporating data-driven 3D priors and real-world structures, such as symmetry and physics. My goal is to enable efficient and generalizable robot operation in cluttered environments.
 
-My research explores two main directions:
+My research explores two main strategies to turn learning-based *computer vision* into *robot vision*:
 - Leveraging symmetry as a strong prior for efficient and reliable world understanding. 
 - Test-time update of scene understanding through embodied interactions and physics-based reasoning. 
 
